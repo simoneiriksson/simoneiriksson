@@ -1,4 +1,4 @@
-## Machine Learning engineering student at Technical University of Denmark
+## Machine Learning engineer
 
 <!--
 **simoneiriksson/simoneiriksson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
