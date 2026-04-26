@@ -4,7 +4,7 @@ Welcome to my little corner of Github.
 
 I have a few repos here with some projects I have done over the years - mostly in probabilistic ML, Bayesian methods, and generative modelling.
 
-If you want to have a look, I suggest starting with the [`mode-connectivity`](https://github.com/simoneiriksson/mode-connectivity) and the [`SDEmatching`](https://github.com/simoneiriksson/SDEmatching) repo, which are reasonably clean and have a good introduction. 
+If you want to have a look, I suggest starting with the [`mode-connectivity`](https://github.com/simoneiriksson/mode-connectivity) and the [`SDEmatching`](https://github.com/simoneiriksson/SDEmatching) repos, which are reasonably clean and have a good introduction. 
 
 If you want to know more about me, I suggest you go and check [eiriksson.ai](http://eiriksson.ai).
 
